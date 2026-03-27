@@ -12,7 +12,16 @@ Engineering Student | Aspiring Full Stack Developer<br>Currently pursuing engine
 ![](https://nirzak-streak-stats.vercel.app/?user=Prasoonsoni398&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasoonsoni398&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Prasoonsoni398&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Prasoonsoni398&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
