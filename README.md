@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+I'm+Raj+Kumar+Gupta;MERN+Stack+Developer;DSA+in+Java;Passionate+Programmer;Building+Projects+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+I'm+Prasoon+Soni;MERN+Stack+Developer;DSA+in+Java;Passionate+Programmer;Building+Projects+🚀" />
 </div>
 
 👋 Hi, I'm **Prasoon Soni**  
@@ -46,11 +46,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajkumarvns&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumarvns&theme=radical&hide_border=true" width="38%"/>
-</div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Prasoonsoni398&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Prasoonsoni398&theme=radical&hide_border=true" width="48%" />
+</div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumarvns&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasoonsoni398&layout=compact&theme=radical&hide_border=true" width="40%" />
 </div>
 
