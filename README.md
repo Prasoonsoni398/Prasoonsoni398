@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+I'm+Raj+Kumar+Gupta;MERN+Stack+Developer;DSA+in+Java;Passionate+Programmer;Building+Projects+🚀" />
 </div>
 
-👋 Hi, I'm **Raj Kumar Gupta**  
+👋 Hi, I'm **Prasoon Soni**  
 🎓 B.Tech Computer Science Student  
 🌱 Currently pursuing the **MERN Stack** — learning and building projects with MongoDB, Express.js, React, and Node.js  
 💻 Passionate about **Web Development & Programming**
@@ -17,9 +17,9 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kumar-gupta-990093305/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajkumar966601@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/er_raj__gupta63)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasoon-soni-352360312/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soniprasoon396@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/prasoon__soni__198/)
 
 # 💻 Tech Stack:
 
@@ -57,7 +57,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumarvns&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajkumarvns&bg_color=0d1117&color=00c7b7&line=00c7b7&point=ffffff&area=true&hide_border=true" width="100%"/>
