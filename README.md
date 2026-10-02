@@ -43,14 +43,5 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prasoonsoni398&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Prasoonsoni398&theme=radical&hide_border=true" width="48%" />
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasoonsoni398&layout=compact&theme=radical&hide_border=true" width="40%" />
-</div>
 
